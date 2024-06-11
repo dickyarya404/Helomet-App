@@ -53,7 +53,7 @@
                                 <h4>
                                     Hellomet - AIoT for Helmet Detection
                                 </h4>
-                                <h5>Astra Polytechnic</h5> <br>
+                                <h5>Unugha Cilacap</h5> <br>
                             </div>
 
                             <div class="dropdown-divider"></div>
